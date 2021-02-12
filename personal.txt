@@ -4,3 +4,4 @@ Age: 		20
 DOB: 		07-12-2000
 Gender:		Female
 Marital status: no
+phone no:	6304836489
