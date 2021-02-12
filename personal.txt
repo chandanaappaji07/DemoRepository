@@ -1,0 +1,5 @@
+Name: 		Bandlamudi Chandana
+Age: 		20
+DOB: 		07-12-2000
+Gender:		Female
+Marital status: no
