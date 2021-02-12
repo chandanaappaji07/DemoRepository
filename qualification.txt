@@ -1,0 +1,9 @@
+Standard: Btech
+College:  RVR
+Per:	  94
+Standard: Inter
+College:  BSSB
+Per:	  97
+Standard: 10th class
+College:  Live
+Per:	  98
